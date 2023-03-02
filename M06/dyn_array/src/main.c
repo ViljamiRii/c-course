@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "source.h"
+#include "source.c"
 
 void printarray(const int *array, int size) {
     printf("{ ");
